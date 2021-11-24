@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Dashboard/static/css/main.c0e116d2.chunk.css",
+    "main.js": "/Dashboard/static/js/main.b69a7052.chunk.js",
+    "main.js.map": "/Dashboard/static/js/main.b69a7052.chunk.js.map",
+    "runtime-main.js": "/Dashboard/static/js/runtime-main.fa7ad0a9.js",
+    "runtime-main.js.map": "/Dashboard/static/js/runtime-main.fa7ad0a9.js.map",
+    "static/js/2.119b4301.chunk.js": "/Dashboard/static/js/2.119b4301.chunk.js",
+    "static/js/2.119b4301.chunk.js.map": "/Dashboard/static/js/2.119b4301.chunk.js.map",
+    "index.html": "/Dashboard/index.html",
+    "static/css/main.c0e116d2.chunk.css.map": "/Dashboard/static/css/main.c0e116d2.chunk.css.map",
+    "static/js/2.119b4301.chunk.js.LICENSE.txt": "/Dashboard/static/js/2.119b4301.chunk.js.LICENSE.txt",
+    "static/media/1.17db1019.webp": "/Dashboard/static/media/1.17db1019.webp",
+    "static/media/3.38c5f5d8.webp": "/Dashboard/static/media/3.38c5f5d8.webp",
+    "static/media/4.6376ff66.webp": "/Dashboard/static/media/4.6376ff66.webp",
+    "static/media/startup.ced401dd.png": "/Dashboard/static/media/startup.ced401dd.png",
+    "static/media/toi.cff16b3b.png": "/Dashboard/static/media/toi.cff16b3b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fa7ad0a9.js",
+    "static/js/2.119b4301.chunk.js",
+    "static/css/main.c0e116d2.chunk.css",
+    "static/js/main.b69a7052.chunk.js"
+  ]
+}
